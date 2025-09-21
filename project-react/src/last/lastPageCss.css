@@ -1,0 +1,57 @@
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #3b7bff;
+    color: white;
+    font-family: 'Montserrat';
+}
+
+
+.footer-section {
+    flex: 1;
+    margin: 0 10px;
+}
+
+
+.social-icons-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+
+.footer-section p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 5px;
+}
+
+.footer-section a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
+
+
+.social-icon-linkedin,
+.social-icon-instagram,
+.social-icon-facebook {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+
+}

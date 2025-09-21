@@ -1,0 +1,16 @@
+.heading-main-three {
+    font-family: Montserrat;
+    font-size: 25px;
+    color: #333333;
+    text-align: center;
+}
+
+.only-div-here {
+    left:0;
+    width:100%;
+    background-color:rgba(244, 244, 244, 1);
+    height:200px;
+
+
+}
+

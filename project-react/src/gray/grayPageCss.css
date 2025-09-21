@@ -1,0 +1,85 @@
+.container-of-ninty {
+    background: rgba(244, 244, 244, 1);
+    width: 927px;
+    height: 323px;
+    padding: 20px;
+    display: flex; 
+    align-items: center;  
+}
+
+.accuracy-left-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 50px;
+}
+
+.rotated-text {
+    display: flex;
+    flex-direction: column; 
+    transform: rotate(-90deg); 
+    transform-origin: center;
+}
+
+.style-h3 {
+    font-size: 30px;
+    color: #333333;
+    font-family: Montserrat;
+    white-space: nowrap;
+    margin-bottom: -10px; 
+}
+
+.style-h1 {
+    font-size: 90px;
+    color: #333333;
+    font-family: Montserrat;
+    white-space: nowrap;
+}
+
+.heading-main-three {
+    font-family: Montserrat;
+    font-size: 25px;
+    color: #333333;
+    text-align: center;
+}
+
+.main-div-here-one {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display:flex;
+    margin-top:0;
+}
+
+.accuracy-right-container {
+    display: flex;
+    gap: 50px; 
+}
+
+.labels-columns {
+    display: flex;
+    flex-direction: column; 
+    gap: 15px; 
+}
+
+.labels-labels {
+    font-family: Montserrat;
+    color: #333333;
+    white-space: nowrap;
+}
+
+.second-main-div {
+   background-color:rgba(233, 233, 233, 1);
+   width:100%;
+   height:323px;
+   display:flex;
+
+
+}
+
+.second-labels {
+    margin-left:50px;
+    margin-top:25px;
+    color:#333333;
+}

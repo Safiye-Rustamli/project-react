@@ -1,0 +1,50 @@
+.bottom-bottom-container {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 643px;
+  background-color: #dddddd;
+}
+
+.text-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 50%;
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+
+.bottom-bottom-pic {
+  position: absolute;
+  right: 0;
+  width: 49%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.title-section {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 29px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.description-section {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 19px;
+  color: #333333;
+  margin-bottom: 30px;
+}
+
+.try-it-button {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f07122;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

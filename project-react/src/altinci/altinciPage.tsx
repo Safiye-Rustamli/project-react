@@ -26,7 +26,8 @@ function SixthPage() {
       <button style={{
             backgroundColor: '#F07122',
             width:'300px',
-            height:'50px'
+            height:'50px',
+            fontFamily:'Montserrat'
       }}>Details</button>
       <br />
       <br />

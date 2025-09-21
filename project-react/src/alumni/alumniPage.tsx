@@ -9,6 +9,7 @@ function AlumniPage() {
              <div style={{
                 textAlign: 'center',
                 backgroundColor: 'white',
+                fontSize:'25px'
 
             }}><br /><br />
                 <label>OUR ALUMNI</label>
