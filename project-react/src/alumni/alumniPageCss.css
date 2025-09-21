@@ -1,0 +1,59 @@
+
+.alumni-page-container {
+    display: flex;
+    padding:20px;
+    align-items: center;
+    height: 100vh; 
+    background-color: white; 
+}
+
+
+.alumni-card {
+    background-color:#f0f0f0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
+    margin-left:50px;
+}
+
+/* The profile image */
+.alumni-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+}
+
+/* Container for the text info */
+.alumni-info {
+    padding: 20px;
+}
+
+.alumni-name {
+    font-weight: 600;
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 5px;
+}
+
+.alumni-title {
+    font-size: 16px;
+    color: #333333;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* Horizontal divider line */
+.divider {
+    border: none;
+    height: 1px;
+    background-color: #333333;
+    margin: 20px 0;
+}
+
+.alumni-location {
+    font-size: 16px;
+    color: #333333;
+}

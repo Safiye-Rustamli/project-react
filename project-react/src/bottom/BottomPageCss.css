@@ -1,0 +1,20 @@
+.bottom-pic {
+    width: 780px;
+    height: 643px;
+    object-fit: cover;
+}
+
+.bottom-container {
+    display:flex;
+    background-color:#dddddd;
+}
+
+.div-main {
+   width:821px;
+   background:rgba(22, 79, 153, 0.842);
+   height:250px;
+   margin-top:190px;
+   margin-left:700px;
+   position:absolute;
+  
+}
